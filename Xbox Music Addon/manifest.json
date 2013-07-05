@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+
+	"name": "Xbox Music +",
+	"description": "Adds some pretty swell features to Xbox Music",
+	"version": "1.0",
+	"default_locale": "en",
+
+	"permissions": [
+		"*://music.xbox.com/*"
+	],
+	"content_scripts": [
+		{
+			"matches": ["*://music.xbox.com/*"],
+			"js": ["addons.js"]
+		}
+	]
+}
