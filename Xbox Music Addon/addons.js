@@ -1,5 +1,5 @@
 jQuery(document).ready(function () {
-	jQuery('body').append('<script src="http://localhost:1000/xmp.js"></script>');
+	jQuery('body').append('<script src="http://www.xeraxic.com/projects/xmp.js"></script>');
 });
 
 
