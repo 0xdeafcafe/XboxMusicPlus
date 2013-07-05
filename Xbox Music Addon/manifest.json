@@ -4,7 +4,6 @@
 	"name": "Xbox Music ",
 	"description": "Adds some pretty swell features to Xbox Music.",
 	"version": "1.0",
-	"default_locale": "en",
 
 	"permissions": [
 		"*://music.xbox.com/*"
